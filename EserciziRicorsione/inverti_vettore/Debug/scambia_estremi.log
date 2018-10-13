@@ -1,0 +1,10 @@
+﻿Compilazione avviata 07/03/2017 22:06:10.
+     1>Progetto "C:\Users\Christian\Desktop\IngInfo\ProgrammiC\EserciziRicorsione\scambia_estremi\scambia_estremi.vcxproj" sul nodo 2 (destinazioni: Build).
+     1>Link:
+         A:\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Christian\Desktop\IngInfo\ProgrammiC\EserciziRicorsione\scambia_estremi\Debug\scambia_estremi.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Christian\Desktop\IngInfo\ProgrammiC\EserciziRicorsione\scambia_estremi\Debug\scambia_estremi.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Christian\Desktop\IngInfo\ProgrammiC\EserciziRicorsione\scambia_estremi\Debug\scambia_estremi.lib" /MACHINE:X86 Debug\main.obj
+         scambia_estremi.vcxproj -> C:\Users\Christian\Desktop\IngInfo\ProgrammiC\EserciziRicorsione\scambia_estremi\Debug\scambia_estremi.exe
+     1>Compilazione progetto "C:\Users\Christian\Desktop\IngInfo\ProgrammiC\EserciziRicorsione\scambia_estremi\scambia_estremi.vcxproj" (destinazioni: Build) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:00.25

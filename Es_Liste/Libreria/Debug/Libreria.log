@@ -1,0 +1,20 @@
+﻿Compilazione avviata 10/05/2017 23:00:10.
+     1>Progetto "C:\Users\Christian\Desktop\IngInfo\ProgrammiC\Es_Liste\Libreria\Libreria.vcxproj" sul nodo 2 (destinazioni: Build).
+     1>ClCompile:
+         A:\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Libreria_liste.c
+         Libreria_liste.c
+       Link:
+         A:\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Christian\Desktop\IngInfo\ProgrammiC\Es_Liste\Libreria\Debug\Libreria.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Christian\Desktop\IngInfo\ProgrammiC\Es_Liste\Libreria\Debug\Libreria.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Christian\Desktop\IngInfo\ProgrammiC\Es_Liste\Libreria\Debug\Libreria.lib" /MACHINE:X86 Debug\Libreria_liste.obj
+         Debug\main.obj
+     1>main.obj : error LNK2005: _cons già definito in Libreria_liste.obj
+     1>main.obj : error LNK2005: _empty già definito in Libreria_liste.obj
+     1>main.obj : error LNK2005: _emptylist già definito in Libreria_liste.obj
+     1>main.obj : error LNK2005: _head già definito in Libreria_liste.obj
+     1>main.obj : error LNK2005: _show già definito in Libreria_liste.obj
+     1>main.obj : error LNK2005: _tail già definito in Libreria_liste.obj
+     1>C:\Users\Christian\Desktop\IngInfo\ProgrammiC\Es_Liste\Libreria\Debug\Libreria.exe : fatal error LNK1169: rilevato uno o più simboli definiti più volte
+     1>Compilazione progetto "C:\Users\Christian\Desktop\IngInfo\ProgrammiC\Es_Liste\Libreria\Libreria.vcxproj" (destinazioni: Build) NON COMPLETATA.
+
+Compilazione NON RIUSCITA.
+
+Tempo trascorso 00:00:00.51

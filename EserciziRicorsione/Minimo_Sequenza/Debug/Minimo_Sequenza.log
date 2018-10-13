@@ -1,0 +1,10 @@
+﻿Compilazione avviata 02/03/2017 23:38:37.
+     1>Progetto "C:\Users\Christian\Desktop\IngInfo\ProgrammiC\EserciziRicorsione\Minimo_Sequenza\Minimo_Sequenza.vcxproj" sul nodo 2 (destinazioni: ClCompile).
+     1>ClCompile:
+         A:\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>Compilazione progetto "C:\Users\Christian\Desktop\IngInfo\ProgrammiC\EserciziRicorsione\Minimo_Sequenza\Minimo_Sequenza.vcxproj" (destinazioni: ClCompile) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:00.10

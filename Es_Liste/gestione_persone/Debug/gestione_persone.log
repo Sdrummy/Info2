@@ -1,0 +1,11 @@
+﻿Compilazione avviata 13/06/2017 12:26:49.
+     1>Progetto "C:\Users\Christian\Desktop\IngInfo\ProgrammiC\Es_Liste\gestione_persone\gestione_persone.vcxproj" sul nodo 2 (destinazioni: ClCompile).
+     1>ClCompile:
+         A:\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\christian\desktop\inginfo\programmic\es_liste\gestione_persone\main.c(160): warning C4013: 'omonimi' non definita. Verrà considerata come esterna che restituisce un int.
+     1>Compilazione progetto "C:\Users\Christian\Desktop\IngInfo\ProgrammiC\Es_Liste\gestione_persone\gestione_persone.vcxproj" (destinazioni: ClCompile) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:00.13

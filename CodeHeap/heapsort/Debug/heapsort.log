@@ -1,0 +1,21 @@
+﻿Compilazione avviata 07/06/2017 12:21:26.
+     1>Progetto "C:\Users\Christian\Desktop\IngInfo\ProgrammiC\CodeHeap\heapsort\heapsort.vcxproj" sul nodo 2 (destinazioni: Build).
+     1>Link:
+         A:\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Christian\Desktop\IngInfo\ProgrammiC\CodeHeap\heapsort\Debug\heapsort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Christian\Desktop\IngInfo\ProgrammiC\CodeHeap\heapsort\Debug\heapsort.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Christian\Desktop\IngInfo\ProgrammiC\CodeHeap\heapsort\Debug\heapsort.lib" /MACHINE:X86 Debug\main.obj
+         Debug\primitive_heap_minimo.obj
+     1>primitive_heap_minimo.obj : error LNK2005: _heapify già definito in main.obj
+     1>primitive_heap_minimo.obj : error LNK2005: _isEqual già definito in main.obj
+     1>primitive_heap_minimo.obj : error LNK2005: _isLeaf già definito in main.obj
+     1>primitive_heap_minimo.obj : error LNK2005: _isLess già definito in main.obj
+     1>primitive_heap_minimo.obj : error LNK2005: _left già definito in main.obj
+     1>primitive_heap_minimo.obj : error LNK2005: _moveDown già definito in main.obj
+     1>primitive_heap_minimo.obj : error LNK2005: _parent già definito in main.obj
+     1>primitive_heap_minimo.obj : error LNK2005: _right già definito in main.obj
+     1>primitive_heap_minimo.obj : error LNK2005: _scambia già definito in main.obj
+     1>primitive_heap_minimo.obj : error LNK2005: _show già definito in main.obj
+     1>C:\Users\Christian\Desktop\IngInfo\ProgrammiC\CodeHeap\heapsort\Debug\heapsort.exe : fatal error LNK1169: rilevato uno o più simboli definiti più volte
+     1>Compilazione progetto "C:\Users\Christian\Desktop\IngInfo\ProgrammiC\CodeHeap\heapsort\heapsort.vcxproj" (destinazioni: Build) NON COMPLETATA.
+
+Compilazione NON RIUSCITA.
+
+Tempo trascorso 00:00:00.16
